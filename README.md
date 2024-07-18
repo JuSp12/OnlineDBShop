@@ -12,36 +12,26 @@ Getting Started
 To run the Online DB Shop project, follow these steps:
 
 Clone the Repository:
+git clone https://github.com/JuSp12/OnlineDBShop.git <br>
 
-bash
-Copy code
-git clone https://github.com/JuSp12/OnlineDBShop.git
 Navigate to the Project Directory:
+cd OnlineDBShop<br>
 
-bash
-Copy code
-cd OnlineDBShop
 Install Dependencies:
 
 Make sure you have Python installed. If there are any additional dependencies, they should be listed in a requirements.txt file or similar. Install them using:
 
-bash
-Copy code
-pip install -r requirements.txt
+pip install -r requirements.txt<br>
 Run the Application:
-
 To start the backend service, use the following command:
-
-bash
-Copy code
-python OnlineShop.py
+python OnlineShop.py<br>
 Access the Application:
 
 Once running, you can interact with the application via the configured endpoints (if applicable) or via database connections.
-
+<br>
 Configuration
 Ensure your SQL database is properly set up and configured according to the specifications in the project. You may need to adjust connection settings in the OnlineShop.py file or configuration files.
-
+<br>
 Repository
 You can find the repository at:
 
