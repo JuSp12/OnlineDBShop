@@ -20,13 +20,11 @@ cd OnlineDBShop<br>
 Install Dependencies:
 
 Make sure you have Python installed. If there are any additional dependencies, they should be listed in a requirements.txt file or similar. Install them using:
-
 pip install -r requirements.txt<br>
 Run the Application:
 To start the backend service, use the following command:
 python OnlineShop.py<br>
 Access the Application:
-
 Once running, you can interact with the application via the configured endpoints (if applicable) or via database connections.
 <br>
 Configuration
